@@ -10,7 +10,10 @@
   font-weight: 400;
  
 }
- 
+
+.btn{
+ border:0px;
+}
 
 body {
   font-family: "Nunito Sans";
